@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "@platejs/diff": "50.2.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "platejs": "workspace:^"
