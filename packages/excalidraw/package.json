@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "@excalidraw/excalidraw": "0.18.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@types/lodash": "^4.17.13",
