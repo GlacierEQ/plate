@@ -54,12 +54,12 @@
     "@platejs/selection": "50.3.4",
     "@platejs/suggestion": "50.3.3",
     "fastest-levenshtein": "1.0.16",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@ai-sdk/react": "2.0.28",
     "@platejs/combobox": "49.0.0",
-    "ai": "5.0.28"
+    "ai": "5.0.52"
   },
   "peerDependencies": {
     "platejs": ">=49.2.4",
