@@ -55,7 +55,7 @@
     "@udecode/react-utils": "49.0.15",
     "@udecode/utils": "47.2.7",
     "clsx": "^2.1.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.18.1"
   },
   "peerDependencies": {
     "react": ">=18.0.0",
